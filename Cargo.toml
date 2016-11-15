@@ -1,8 +1,9 @@
 [package]
-name = "Fibonacci"
-version = "0.1.0"
+name = "fibonacci"
+version = "0.1.1"
 authors = ["Lucille L. Blumire <llblumire@gmail.com>"]
 description = "Provides a Fibonacci number generator"
 license = "Unlicense/MIT"
+repository = "https://github.com/LLBlumire/fibonacci-rs"
 
 [dependencies]
